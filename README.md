@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m @gaurangparante2299
+- 👋 Hi, I’m @GaurangParante
 - 👀 I’m interested in Exploring new IT technologies like AI, cloud computing, blockchain, DevOps, cybersecurity, and edge computing.
-- 🌱 I’m currently learning Node js
+- 🌱 I’m currently learning Node js and Python
 - 💞️ I'm looking to collaborate on web development projects, particularly those involving Node.js, Express.js, and modern frontend technologies. I'm interested in working with others who are passionate about creating innovative web applications and exploring new tools in the development ecosystem.
 
 
